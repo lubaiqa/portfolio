@@ -8,7 +8,7 @@ export const projects = [
     description:
       "A full-stack e-commerce platform built with React, Redux Toolkit, Node.js, Express and MongoDB. Includes Cloudinary image uploads and local payment methods (JazzCash, Easypaisa, bank transfer).",
     github: "https://github.com/lubaiqa/ShopWave",
-    live: "",
+    live: "https://lubaiqa-shopwave.vercel.app/",
     image: shopwaveImg,
   },
   {
