@@ -17,7 +17,7 @@ export const projects = [
     description:
       "A real-time messaging app built with the MERN stack and Socket.io for instant, bidirectional communication. Features a colorful split-screen auth UI and a dark, teal-accented chat interface.",
     github: "https://github.com/lubaiqa/ChatApp",
-    live: "lubaiqa-chatapp.vercel.app",
+    live: "https://lubaiqa-chatapp.vercel.app/",
     image: chatappImg,
   },
 ];
